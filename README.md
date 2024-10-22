@@ -21,3 +21,5 @@ Here are the key features of using AWS CodePipeline:
 8.Pay-as-you-go Pricing
 
 Use Cases:
+
+1.Continuous delivery for applications 
