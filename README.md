@@ -10,3 +10,5 @@ Here are the key features of AWS CodePipeline:
 3.Integration with Other AWS Services
 
 4.Third-Party Tool Support
+
+5.Parallel Actions
