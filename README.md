@@ -26,3 +26,5 @@ Use Cases:
 
 2.Automating testing and deployment for software updates.
 
+3.Creating a reliable, repeatable release process.
+
