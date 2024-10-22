@@ -19,3 +19,5 @@ Here are the key features of using AWS CodePipeline:
 7.Security and Control
 
 8.Pay-as-you-go Pricing
+
+Use Cases:
