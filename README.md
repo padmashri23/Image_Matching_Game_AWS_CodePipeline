@@ -14,3 +14,5 @@ Here are the key features of AWS CodePipeline:
 5.Parallel Actions
 
 6.Customizable Stages and Actions
+
+7.Security and Control
