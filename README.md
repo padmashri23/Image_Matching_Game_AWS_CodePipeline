@@ -4,4 +4,7 @@ AWS CodePipeline is a continuous delivery service used to model, visualize, and 
 Here are the key features of AWS CodePipeline:
 
 1.Automation of Software Release Processes
+
 2.Flexible Workflow Configuration
+
+3.Integration with Other AWS Services
