@@ -22,4 +22,5 @@ Here are the key features of using AWS CodePipeline:
 
 Use Cases:
 
-1.Continuous delivery for applications 
+1.Continuous delivery for applications and microservices.
+
