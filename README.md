@@ -24,3 +24,5 @@ Use Cases:
 
 1.Continuous delivery for applications and microservices.
 
+2.Automating testing and deployment for software updates.
+
